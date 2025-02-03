@@ -1,0 +1,70 @@
+{
+  "hash": "7d1c855c",
+  "configHash": "14a79891",
+  "lockfileHash": "240ce86b",
+  "browserHash": "18a499af",
+  "optimized": {
+    "@inertiajs/vue3": {
+      "src": "../../node_modules/.pnpm/@inertiajs+vue3@2.0.3_vue@3.5.13/node_modules/@inertiajs/vue3/dist/index.esm.js",
+      "file": "@inertiajs_vue3.js",
+      "fileHash": "6a26c003",
+      "needsInterop": false
+    },
+    "laravel-vite-plugin/inertia-helpers": {
+      "src": "../../node_modules/.pnpm/laravel-vite-plugin@1.2.0_vite@6.0.11/node_modules/laravel-vite-plugin/inertia-helpers/index.js",
+      "file": "laravel-vite-plugin_inertia-helpers.js",
+      "fileHash": "48682dcc",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../node_modules/.pnpm/vue@3.5.13/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "b659f5f3",
+      "needsInterop": false
+    },
+    "vuetify": {
+      "src": "../../node_modules/.pnpm/vuetify@3.7.9_vue@3.5.13/node_modules/vuetify/lib/framework.mjs",
+      "file": "vuetify.js",
+      "fileHash": "3895304a",
+      "needsInterop": false
+    },
+    "vuetify/components": {
+      "src": "../../node_modules/.pnpm/vuetify@3.7.9_vue@3.5.13/node_modules/vuetify/lib/components/index.mjs",
+      "file": "vuetify_components.js",
+      "fileHash": "e6a632e9",
+      "needsInterop": false
+    },
+    "vuetify/directives": {
+      "src": "../../node_modules/.pnpm/vuetify@3.7.9_vue@3.5.13/node_modules/vuetify/lib/directives/index.mjs",
+      "file": "vuetify_directives.js",
+      "fileHash": "0d652109",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/.pnpm/axios@1.7.9/node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "9a2e4dd8",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-57FGO5I5": {
+      "file": "chunk-57FGO5I5.js"
+    },
+    "chunk-BLY5QP2F": {
+      "file": "chunk-BLY5QP2F.js"
+    },
+    "chunk-FHVYV7SQ": {
+      "file": "chunk-FHVYV7SQ.js"
+    },
+    "chunk-MPFL3POT": {
+      "file": "chunk-MPFL3POT.js"
+    },
+    "chunk-S2235ZEX": {
+      "file": "chunk-S2235ZEX.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}

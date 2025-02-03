@@ -170,7 +170,7 @@ onMounted(async () => {
                                                     <div class="flex">
                                                         <MoveDialog :task="task" :currentStatus="task.status"
                                                             @statusUpdated="moveTask" />
-                                                        <EditDialog :task="task" @updated="updateTask" class="space-x-2"
+                                                        <EditDialog :task="task" @updated="updateTask" :assignUsers="findUser(task.user_assigned)" class="space-x-2"
                                                             :users="users" />
                                                         <DeleteDialog :taskId="task.id" @deleted="deleteTask" />
                                                     </div>
